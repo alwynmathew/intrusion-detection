@@ -8,7 +8,7 @@ Google’s inception v3 model have been used and have achieved an accuracy of 95
 proprietary ATM surveillance dataset. Transferred information from inception model has been feed to multiple fully
 connected layers with drop outs to achieve better accuracy.
 
-#Files
+# Files
 
-download.py - Load dataset
-inception.py - Functions and classes for loading and using the Inception model
+⋅⋅* download.py - Load dataset
+⋅⋅* inception.py - Functions and classes for loading and using the Inception model
