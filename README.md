@@ -7,3 +7,8 @@ ATM surveillance camera feed can help improve security significantly. Recently d
 Google’s inception v3 model have been used and have achieved an accuracy of 95.3% by training the model on a
 proprietary ATM surveillance dataset. Transferred information from inception model has been feed to multiple fully
 connected layers with drop outs to achieve better accuracy.
+
+#Files
+
+download.py - Load dataset
+inception.py - Functions and classes for loading and using the Inception model
