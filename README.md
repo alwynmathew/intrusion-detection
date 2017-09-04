@@ -10,5 +10,5 @@ connected layers with drop outs to achieve better accuracy.
 
 # Files
 
-⋅⋅* download.py - Load dataset
-⋅⋅* inception.py - Functions and classes for loading and using the Inception model
+* download.py - Load dataset
+* inception.py - Functions and classes for loading and using the Inception model
