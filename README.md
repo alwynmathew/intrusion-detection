@@ -10,5 +10,6 @@ connected layers with drop outs to achieve better accuracy.
 
 # Files
 
+* Intrusion+detection.ipynb - main file
 * download.py - Load dataset
 * inception.py - Functions and classes for loading and using the Inception model
