@@ -18,6 +18,7 @@ connected layers with drop outs to achieve better accuracy.
 
 If you find this useful for your research, please use the following.
 
+```
 @article{mathew2017improved,
   title={An Improved Transfer learning Approach for Intrusion Detection},
   author={Mathew, Alwyn and Mathew, Jimson and Govind, Mahesh and Mooppan, Asif},
@@ -27,3 +28,4 @@ If you find this useful for your research, please use the following.
   year={2017},
   publisher={Elsevier}
 }
+```
