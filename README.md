@@ -13,3 +13,17 @@ connected layers with drop outs to achieve better accuracy.
 * Intrusion+detection.ipynb - main file
 * download.py - Load dataset
 * inception.py - Functions and classes for loading and using the Inception model
+
+# Citation
+
+If you find this useful for your research, please use the following.
+
+@article{mathew2017improved,
+  title={An Improved Transfer learning Approach for Intrusion Detection},
+  author={Mathew, Alwyn and Mathew, Jimson and Govind, Mahesh and Mooppan, Asif},
+  journal={Procedia Computer Science},
+  volume={115},
+  pages={251--257},
+  year={2017},
+  publisher={Elsevier}
+}
