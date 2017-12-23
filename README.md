@@ -8,6 +8,8 @@ Google’s inception v3 model have been used and have achieved an accuracy of 95
 proprietary ATM surveillance dataset. Transferred information from inception model has been feed to multiple fully
 connected layers with drop outs to achieve better accuracy.
 
+https://doi.org/10.1016/j.procs.2017.09.132
+
 # Files
 
 * Intrusion+detection.ipynb - main file
